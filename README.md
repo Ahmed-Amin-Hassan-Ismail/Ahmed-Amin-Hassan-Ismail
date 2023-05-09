@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning: SwiftUI and Combine Framework
 - 🌡️ You can visit my linkedin Profile: <a href ="https://www.linkedin.com/in/ahmed-amin-hassan-6aa619212">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:AhmedAminHassanIsmail@gmail.com)</a>
 - 💬 Ask me about C++, Swift, SwiftUI, UIKit, iOS Development.
-- 📫 How to reach me: <a href ="AhmedAminHassanIsmail@gmail.com">![Gmail Badge](https://img.shields.io/badge/-AhmedAminHassanIsmail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AhmedAminHassanIsmail@gmail.com)</a>
+- 📫 How to reach me: <a href ="mailto:ahmedaminhassanismail@gmail.com">![Gmail Badge](https://img.shields.io/badge/-ahmedaminhassanismail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedaminhassanismail@gmail.com)</a>
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 😅
 
