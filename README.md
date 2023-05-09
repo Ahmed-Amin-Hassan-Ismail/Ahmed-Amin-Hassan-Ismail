@@ -1,5 +1,5 @@
 <div align = "center">
-  <img align="center" src= "https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Vlogo.jpg" />
+  <img align="center" src= "https://github.com/Ahmed-Amin-Hassan-Ismail/Ahmed_Amin_Hassan_Ismail/blob/main/Ahmed_Amin_Hassan.png" />
   <img src=https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Hnet-image%20(3).gif width="667px">
  </div>
  <div align = "center"> 
@@ -10,16 +10,17 @@
 
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
 
-- 🔭 I’m currently working with a Startup in Waterloo Region, called RouteThis
-- 🌱 I’m currently learning: Android Development
-- 💬 Ask me about C, C++, Swift, Python, DrRacket
-- 📫 How to reach me: <a href ="mailto:vbector@uwaterloo.ca">![Gmail Badge](https://img.shields.io/badge/-vbector@uwaterloo.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbector@uwaterloo.ca)</a>
+- 🔭 I’m currently working with Rental Car Company Called **QOAD**
+- 🌱 I’m currently learning: SwiftUI and Combine Framework
+- 🌡️ You can visit my linkedin Profile: <a href ="https://www.linkedin.com/in/ahmed-amin-hassan-6aa619212">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:AhmedAminHassanIsmail@gmail.com)</a>
+- 💬 Ask me about C++, Swift, SwiftUI, UIKit, iOS Development.
+- 📫 How to reach me: <a href ="AhmedAminHassanIsmail@gmail.com">![Gmail Badge](https://img.shields.io/badge/-AhmedAminHassanIsmail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AhmedAminHassanIsmail@gmail.com)</a>
 
-- ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
+- ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 😅
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/VinayakBector2002/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ahmed-Amin-Hassan-Ismail/count.svg" />
 </p>
 
 <!--
@@ -29,11 +30,11 @@
 -->
 <p></p>
 <div align = "center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Amin-Hassan-Ismail&theme=dark&layout=compact" /></p>
   
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,swift,kotlin,androidstudio,figma,bash,github,js,html,css,arduino,mongodb,vscode" />
+    <img src="https://skillicons.dev/icons?i=swift,figma,github,html,css" />
   </a>
 </p>
  <!-- 
@@ -43,8 +44,8 @@
 </div>
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=VinayakBector2002&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=VinayakBector2002&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Amin-Hassan-Ismail&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Amin-Hassan-Ismail&theme=dracula&hide_border=true" />
     
   </a>
 </p>
